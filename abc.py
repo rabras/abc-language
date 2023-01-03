@@ -1,7 +1,7 @@
 import time as tm
 tm.sleep(1)
 print("\n"*130)
-print("abc prototype [0.001 alpha test]\n")
+print("abc prototype [0.001 alpha test]\nRenato Soft (2023)\n")
 vars_name = []
 vars_content = []
 code = []
